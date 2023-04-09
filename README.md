@@ -3,7 +3,7 @@ This project is a demonstration of image edge detection using quantum computer s
 This code is altered from the original qiskit implementation.
 <h3>Qiskit library and python language has been used in this project.<h3>
 Below is the large image on which QHED is applied:
-<img src="qhed flow chart.jpg" alt="flow chart">
+<img src="quantum-edge-detection_46_1.png" alt="large img">
 
 Below is the flow diagram for better understanding of the process flow:
 
