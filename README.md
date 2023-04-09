@@ -5,6 +5,10 @@ This code is altered from the original qiskit implementation.
 Below is the large image on which QHED is applied:
  <br>
 <img src="quantum-edge-detection_46_1.png" alt="large img">
+<br>
+Below is the output image (when QHED is applied over a small part):
+ <br>
+<img src="output.png" alt="output img">
 
 Below is the flow diagram for better understanding of the process flow:
 
