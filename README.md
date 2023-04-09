@@ -8,7 +8,7 @@ Below is the large image on which QHED is applied:
 <br>
 Below is the output image (when QHED is applied over a small part):
  <br>
-<img src="output.png" alt="output img">
+<img src="output img.png" alt="output img">
 
 Below is the flow diagram for better understanding of the process flow:
 
