@@ -20,7 +20,7 @@ This project demonstrates image edge detection using a quantum computer simulato
 
 Below is the flow diagram for better understanding of the process flow:
 
-![Flow Diagram](qhedflowchart.jpg)
+![Flow Diagram](qhedflowchart.png)
 
 ## Usage
 
