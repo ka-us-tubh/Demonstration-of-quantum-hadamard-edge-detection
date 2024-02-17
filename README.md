@@ -14,7 +14,7 @@ This project demonstrates image edge detection using a quantum computer simulato
   ![Image Patch](input.png)
   
 - **Output Image**: The resulting output image when QHED is applied over a small part of the original image.
-  ![Output Image](output img.png)
+  ![Output Image](outputimg.png)
 
 ## Flow Diagram
 
