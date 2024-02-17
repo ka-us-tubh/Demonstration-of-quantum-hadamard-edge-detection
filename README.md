@@ -9,7 +9,7 @@ This project demonstrates image edge detection using a quantum computer simulato
 
 - **Large Image**: The original large image used in the project.
  <br>
-  ![Large Image](quantum-edge-detection_46_1.png)
+![Large Image](quantum-edge-detection_46_1.png)
   
 - **Image Patch**: The part of the image on which QHED is applied.
   ![Image Patch](input.png)
